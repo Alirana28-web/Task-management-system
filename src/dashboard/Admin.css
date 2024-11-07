@@ -1,0 +1,11 @@
+.data-scroll-container{
+    position: relative;
+    height: 100vh;
+    overflow: hidden; 
+  }
+  
+  .admin {
+    height: 100vh;
+    width: 100vw;
+  }
+  
